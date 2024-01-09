@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - Janela Modal</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    
+    <h1>JavaScript - Janela Modal</h1>
+    <div class="btn" onclick="abrirModal()">Clique aqui</div>
+    
+    <!-- Normalmente a janela modal é criada logo após o elemento ao qual ela está associada
+      ou no final do conteúdo da página, antes da tag de fechamento do HTML -->
+      <div class="janela-modal" id="janela-modal">
+      <div class="modal">
+        <button class="fechar" id="fechar">X</button>
+        <h2>Janela Modal</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+          Veniam voluptas reiciendis a mollitia, deleniti nesciunt 
+          impedit quos praesentium quidem! Adipisci qui tempore, 
+          similique nemo officia eius sit eaque velit eum.
+        </p>
+      </div>
+    </div>
+    <script src="assets/script.js"></script>
+  </body>
+</html>
