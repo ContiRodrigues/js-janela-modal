@@ -17,10 +17,7 @@ Assim, pelo estudo desse tema da 'janela modal', temos à disposição mais um r
 
 ## O recurso em execução 👀
 
-*link do vídeo*
-
-
-
+https://github.com/ContiRodrigues/js-janela-modal/assets/106720974/d53f1b50-7c25-4178-8535-102a1ffc6add
 
 ## Links 📒 :
 
